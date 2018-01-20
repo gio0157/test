@@ -11,14 +11,6 @@
                     <a href=""><span>სრულად ნახვა</span></a>
                 </div>
             </div>
-            <div class="header-item">
-                <img src="<?php echo URL; ?>public/img/dog.png">
-                <div class="header-info">
-                    <h1>ჩვენ გვიყვარს ცხოველები</h1>
-                    <p>ცნობილი ფაქტია, რომ გვერდის წაკითხვად შიგთავსს შეუძლია მკითხველის ყურადღება მიიზიდოს და დიზაინის აღქმაში ხელი შეუშალოს. Lorem Ipsum-ის გამოყენებით ვღებულობთ იმაზე მეტ-ნაკლებად სწორი გადანაწილების ტექსტს, ვიდრე ერთიდაიგივე გამეორებადი სიტყვებია ხოლმე. შედეგად, ტექსტი ჩვეულებრივ ინგლისურს</p>
-                    <a href=""><span>სრულად ნახვა</span></a>
-                </div>
-            </div>
         </div>
     </div>
 </div>
@@ -56,24 +48,6 @@
                     <span>...</span>
                 </div>
             </div>
-            <div class="region-item">
-                <div class="region-number">01</div>
-                <div class="region-img"><img src="<?php echo URL; ?>public/img/village.png"></div>
-                <div class="region-info">
-                    <h3>აჭარა</h3>
-                    <p>გავრცელებული მოსაზრებით, Lorem Ipsum შემთხვევითი ტექსტი სულაც არაა. მისი ფესვები ჯერკიდევ ჩვ. წ. აღ-მდე 45 წლის დროინდელი კლასიკური ლათინური ლიტერატურიდან მოდის. ვირჯინიის შტატში მდებარე ჰემპდენ-სიდნეის კოლეჯის პროფესორმა რიჩარდ მაკკლინტოკმა აიღო ერთ-ერთი ყველაზე იშვიათი ლათინური სიტყვა "consectetur" Lorem Ipsum-პასაჟიდან და გადაწყვიტა მოეძებნა იგი კლასიკურ ლიტერატურაში. შესრულებული ინგლისურენოვანი თარგმანი.</p>
-                    <span>...</span>
-                </div>
-            </div>
-            <div class="region-item">
-                <div class="region-number">01</div>
-                <div class="region-img"><img src="<?php echo URL; ?>public/img/village.png"></div>
-                <div class="region-info">
-                    <h3>აჭარა</h3>
-                    <p>გავრცელებული მოსაზრებით, Lorem Ipsum შემთხვევითი ტექსტი სულაც არაა. მისი ფესვები ჯერკიდევ ჩვ. წ. აღ-მდე 45 წლის დროინდელი კლასიკური ლათინური ლიტერატურიდან მოდის. ვირჯინიის შტატში მდებარე ჰემპდენ-სიდნეის კოლეჯის პროფესორმა რიჩარდ მაკკლინტოკმა აიღო ერთ-ერთი ყველაზე იშვიათი ლათინური სიტყვა "consectetur" Lorem Ipsum-პასაჟიდან და გადაწყვიტა მოეძებნა იგი კლასიკურ ლიტერატურაში. შესრულებული ინგლისურენოვანი თარგმანი.</p>
-                    <span>...</span>
-                </div>
-            </div>
         </div>
     </div>
 </div>
@@ -94,15 +68,6 @@
             <div class="news-right">
                 <div class="news-item">
                     <img src="<?php echo URL; ?>public/img/chicken.png">
-                    <div class="news-info">
-                        <h3>გავრცელებული მოსაზრებით, Lorem Ipsum შემთხვევითი</h3>
-                        <i class="news-date">11 დეკემბერი</i>
-                        <p>Lorem Ipsum საბეჭდი და ტიპოგრაფიული ინდუსტრიის უშინაარსო ტექსტია</p>
-                        <span>...</span>
-                    </div>
-                </div>
-                <div class="news-item">
-                    <img src="<?php echo URL; ?>public/img/puppy.png">
                     <div class="news-info">
                         <h3>გავრცელებული მოსაზრებით, Lorem Ipsum შემთხვევითი</h3>
                         <i class="news-date">11 დეკემბერი</i>
